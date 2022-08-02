@@ -33,4 +33,3 @@ async function testYaRu(){
     console.log('Закрытие браузера');
     await browser.close();
 }
-
